@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Exercise">
-      <UniqueIdentifier>{d237cb42-a3db-41be-b24f-ada9c74a4f90}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01. String.cpp">
@@ -39,8 +36,8 @@
     <ClCompile Include="08. Struct_type.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="01. Fibonacci.c">
-      <Filter>Source Files\Exercise</Filter>
+    <ClCompile Include="09 Fibonacci.c">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
